@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.yc.library.widget.TagFlowLayout
+    <com.yc.library.TagFlowLayout
         android:id="@+id/flow_content"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

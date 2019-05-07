@@ -5,8 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
+import com.yc.library.TagFlowLayout;
 import com.yc.library.listener.OnFlexSelectListener;
-import com.yc.library.widget.TagFlowLayout;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,11 +1,10 @@
-package com.yc.library.widget;
+package com.yc.library;
 
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;
 
 import com.google.android.flexbox.FlexboxLayout;
-import com.yc.library.R;
 import com.yc.library.adapter.TagAdapter;
 
 public class TagFlowLayout extends FlexboxLayout {

@@ -4,10 +4,10 @@ import android.content.Context;
 import android.support.v4.util.ArrayMap;
 import android.widget.Toast;
 
+import com.yc.library.TagFlowLayout;
 import com.yc.library.listener.OnFlexSelectListener;
 import com.yc.library.listener.TagClickListener;
 import com.yc.library.widget.BaseTagView;
-import com.yc.library.widget.TagFlowLayout;
 
 import java.util.ArrayList;
 import java.util.List;
