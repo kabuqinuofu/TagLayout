@@ -6,7 +6,7 @@
         <attr name="selectDrawable" format="reference" />
         <attr name="defaultTextColor" format="color|reference" />
         <attr name="selectTextColor" format="color|reference" />
-        <attr name="mode">
+        <attr name="select_mode">
             <enum name="MULTI" value="0" />
             <enum name="SINGLE" value="1" />
         </attr>

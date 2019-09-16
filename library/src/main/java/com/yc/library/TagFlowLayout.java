@@ -40,7 +40,7 @@ public class TagFlowLayout extends FlexboxLayout {
         itemSelectDrawable = ta.getResourceId(R.styleable.TagFlowLayout_selectDrawable, 0);
         itemDefaultTextColor = ta.getColor(R.styleable.TagFlowLayout_defaultTextColor, 0);
         itemSelectTextColor = ta.getColor(R.styleable.TagFlowLayout_selectTextColor, 0);
-        mode = ta.getInt(R.styleable.TagFlowLayout_mode, MODE_MULTI_SELECT);
+        mode = ta.getInt(R.styleable.TagFlowLayout_select_mode, MODE_MULTI_SELECT);
         maxSelection = ta.getInt(R.styleable.TagFlowLayout_maxSelectionCount, 0);
         ta.recycle();
     }
